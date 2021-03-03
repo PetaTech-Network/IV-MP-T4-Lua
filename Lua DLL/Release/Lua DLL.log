@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+     Creating library E:\T4 client\IVMP Lua\Release\Lua DLL.lib and object E:\T4 client\IVMP Lua\Release\Lua DLL.exp
+  Generating code
+  5 of 5 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lua DLL.vcxproj -> E:\T4 client\IVMP Lua\Release\Lua DLL.dll
